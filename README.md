@@ -27,8 +27,10 @@ Site-Portal-de-Noticias/
     ├── js/
     │   └── script.js
     └── images/
+```
+
+## Como visualizar
 
 ```bash
-# Clone o repositório
-git clone https://github.com/WilliamBassedone/site-imobiliaria.git
+git clone https://github.com/WilliamBassedone/site-portal-de-noticias.git
 ```
