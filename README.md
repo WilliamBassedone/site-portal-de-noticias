@@ -33,13 +33,13 @@ Site-Portal-de-Noticias/
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/WilliamBassedone/site-portal-de-noticias.git
 
 # Acesse a pasta
-cd Site-Portal-de-Noticias
+cd site-portal-de-noticias
 
-# Abra o arquivo no navegador
-# Basta abrir o index.html diretamente no seu navegador
+# Abra o projeto no navegador
+# Basta dar um duplo clique no arquivo index.html ou arrastá-lo para dentro do seu navegador
 ```
 
 > Nenhuma dependência ou instalação necessária.
