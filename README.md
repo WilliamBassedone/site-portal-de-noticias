@@ -27,3 +27,8 @@ Site-Portal-de-Noticias/
     ├── js/
     │   └── script.js
     └── images/
+
+```bash
+# Clone o repositório
+git clone https://github.com/WilliamBassedone/site-imobiliaria.git
+```
